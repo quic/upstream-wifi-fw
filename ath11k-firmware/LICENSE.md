@@ -1,4 +1,4 @@
-Copyright (c) 2013-2021 Qualcomm Innovation Center, Inc.
+Copyright (c) 2013-2022 Qualcomm Innovation Center, Inc.
 
 All rights reserved.
 
