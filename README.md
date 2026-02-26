@@ -1,3 +1,3 @@
 # Upstream Wifi Firmware
 	
-Wifi Firmware files for chipsets and platforms supported by Open source Qualcomm Drivers.
+Please go to https://git.codelinaro.org/clo/ath-firmware for QCA firmware
